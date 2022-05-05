@@ -28,6 +28,3 @@ _𝚁𝚎𝚍𝚎𝚜 𝚜𝚘𝚌𝚒𝚊𝚒𝚜_
 </div>
 
 _Muito obrigado, qualquer solicitação pode me contatar quando precisar!_
-<br />
-
-![Snake animation](https://github.com/izauir/izauir/blob/output/github-contribution-grid-snake.svg)

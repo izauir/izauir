@@ -11,7 +11,7 @@ _𝙴𝚖 𝚋𝚞𝚜𝚌𝚊 𝚍𝚎 𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛_
   <img align="center" alt="Izauir-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Izauir-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Izauir-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/928432409974812772/971761777064964136/Design_sem_nome__1_-removebg-preview.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   <br />
   <br />
 </div>

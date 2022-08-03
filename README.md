@@ -1,6 +1,6 @@
 ### *Olá, me chamo Izauir!*
 
-_Tenho 22 anos, atualmente curso Bacharelado em Sistemas de Informação. Dois anos de experiência como Suporte de TI._
+_Tenho 22 anos, atualmente curso Bacharelado em Sistemas de Informação. Dois anos de experiência como Suporte de TI._<br /> 
 _Hoje trabalho na FitCard como estágiario. Estudo as linguagens de programação C# e Visual Basic. Em busca de me tornar um bom desenvolvedor._
 
 <div>

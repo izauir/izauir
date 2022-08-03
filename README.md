@@ -1,15 +1,10 @@
 ### *Prazer, me chamo Izauir!*
 
 _Tenho 22 anos, atualmente curso Bacharelado em Sistemas de Informação. Dois anos de experiência como Suporte de TI._
-_Estudando as linguagens de programação Java,C e Python. Sigo em busca de oportunidades onde possa principalmente aprender e inovar._
+_Hoje trabalho na FitCard como estágiario. Estudo as linguagens de programação C# e Visual Basic. Em busca de me tornar um bom desenvolvedor._
 
-_𝙴𝚖 𝚋𝚞𝚜𝚌𝚊 𝚍𝚎 𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛_
 </div>
 <div style="display: inline_block">
-  <img align="center" alt="Izauir-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Izauir-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Izauir-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Izauir-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Izauir-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <br />
   <br />
@@ -25,5 +20,3 @@ _𝚁𝚎𝚍𝚎𝚜 𝚜𝚘𝚌𝚒𝚊𝚒𝚜_
   <br />
   <br />
 </div>
-
-_Muito obrigado, qualquer solicitação pode me contatar quando precisar!_

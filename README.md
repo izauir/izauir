@@ -1,7 +1,7 @@
 ### *Olá, me chamo Izauir!*
 
 _Tenho 22 anos, atualmente curso Bacharelado em Sistemas de Informação. Dois anos de experiência como Suporte de TI._<br /> 
-_Hoje trabalho na FitCard como estágiario. Estudo as linguagens de programação C# e Visual Basic. Em busca de me tornar um bom desenvolvedor._
+_Hoje trabalho na FitCard como estágiario de desenvolvimento. Estudo as linguagens de programação C# e Visual Basic. Em busca de me tornar um bom desenvolvedor._
 
 <div>
   <a href="https://www.linkedin.com/in/izauir-guilherme-bernardo-dos-santos-2a75a11a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

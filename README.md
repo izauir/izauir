@@ -1,7 +1,7 @@
 ### *Olá, me chamo Izauir!*
 
-_Tenho 24 anos, atualmente curso Bacharelado em Sistemas de Informação. Dois anos de experiência como Suporte de TI._<br /> 
-_Hoje trabalho na M&M integrações como desenvolvedor. Focado hoje em Pascal. Em busca de me tornar um bom desenvolvedor._
+_Tenho 24 anos, atualmente curso Bacharelado em Sistemas de Informação. Dois anos de experiência como Desenvolvedor.<br /> 
+_Hoje trabalho na M&M integrações. Linguagem de código em Pascal. Em busca de me tornar um bom desenvolvedor._
 
 <div>
   <a href="https://www.linkedin.com/in/izauir-guilherme-bernardo-dos-santos-2a75a11a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

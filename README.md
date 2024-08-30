@@ -1,6 +1,6 @@
 ### *Olá, me chamo Izauir!*
 
-_Tenho 24 anos, atualmente curso Bacharelado em Sistemas de Informação. Dois anos de experiência como Desenvolvedor. <br /> 
+Tenho 24 anos, atualmente curso Bacharelado em Sistemas de Informação. Dois anos de experiência como Desenvolvedor. <br /> 
 _Hoje trabalho na M&M integrações. Linguagem de código em Pascal. Em busca de me tornar um bom desenvolvedor._
 
 <div>

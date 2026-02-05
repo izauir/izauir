@@ -1,6 +1,6 @@
 ### *Olá, me chamo Izauir!*
 
-Formado em Técnico de Informática pela ETEC, cursado em Bacharelado de Sistemas de Informação. Tenho dois anos de experiência como Suporte de TI e três anos de experiência na área de desenvolvimento de software.
+Formado em Técnico de Informática pela ETEC, cursado em Bacharelado de Sistemas de Informação. Tenho dois anos de experiência como Suporte de TI e quatro anos de experiência na área de desenvolvimento de software.
 
 ## Tecnologias Principais
 
